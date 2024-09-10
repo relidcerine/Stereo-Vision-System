@@ -22,7 +22,7 @@ This project demonstrates how to perform 3D reconstruction using stereo vision w
 
 ### 1. Keypoint Matches Between Left and Right Images
 
-![Uploading draw_matches_left_right.jpg…]()
+![draw_matches_left_right](https://github.com/user-attachments/assets/1cfe7a3f-d50c-459b-9f9e-ebe698d7d03f)
 
 This image shows the matched keypoints between the left and right stereo images, with good matches highlighted.
 
